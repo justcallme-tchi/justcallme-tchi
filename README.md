@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chaïma</h1>
+<h1 align="center">Hi!💫 I'm Chaïma</h1>
 <h3 align="center">A passionate Computer Science student, aspiring Full-Stack & mobile Developer from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justcallme-tchi&label=Profile%20views&color=0e75b6&style=flat" alt="justcallme-tchi" /> </p>
@@ -33,4 +33,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justcallme-tchi&show_icons=true&locale=en" alt="justcallme-tchi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justcallme-tchi&" alt="justcallme-tchi" /></p>
+
+### 🔋 My motto in life
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=justcallme-tchi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
