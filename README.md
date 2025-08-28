@@ -33,8 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justcallme-tchi&show_icons=true&locale=en" alt="justcallme-tchi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justcallme-tchi&" alt="justcallme-tchi" /></p>
-
-### 🔋 My motto in life
+<p><</p>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
