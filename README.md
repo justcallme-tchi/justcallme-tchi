@@ -1,11 +1,11 @@
 <h1 align="center">Hi!💫 I'm Chaïma</h1>
-<h3 align="center">A passionate Computer Science student, aspiring Full-Stack & mobile Developer from Algeria</h3>
+<h3 align="center">🎓 Computer Science Student | 💻 Aspiring Full-Stack & Mobile Developer | 🔐 Future Cybersecurity Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justcallme-tchi&label=Profile%20views&color=0e75b6&style=flat" alt="justcallme-tchi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justcallme-tchi" alt="justcallme-tchi" /></a> </p>
 
-- 🚀 I’m currently learning **Cybersecurity basics**
+- 🚀 I’m currently learning **React Native, Cybersecurity basics & Full-Stack Development**
 
 - 🤝 I’m looking to collaborate on **Innovative health-tech and ed-tech ideas**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **hassani.chaima18@gmail.com**
 
-- ✨ Fun fact about me -> **I love mixing tech with creativity & I believe debugging is just detective work in disguise 🕵️‍♀️**
+- ✨ Fun fact: I love mixing tech with creativity, and I believe debugging is just detective work in disguise 🕵️‍♀️ (with snacks 🍫)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,5 +39,4 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=justcallme-tchi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
