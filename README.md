@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=7000&pause=1000&color=5CF713&background=FFFFFF00&width=435&lines=~%24I+love+to+code+things+that+matter+.+.+.+" alt="Typing SVG" /></a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=justcallme-tchi/justcallme-tchi)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=justcallme-tchi&label=Profile%20views&color=0e75b6&style=flat" alt="justcallme-tchi" /> </p>
 
 ### A little more about me
 
@@ -10,7 +10,7 @@
 const chaima = {
   bio: {
     location: 'Algeria',
-    nick: 'Tchi',
+    nick: 'tchi',
     studies: [ 'Computer Science' ],
     currentFocus: [ 'React Native', 'Cybersecurity', 'Full-Stack Development' ]
   },
@@ -19,7 +19,7 @@ const chaima = {
     databases: [ 'MySQL', 'PostgreSQL', 'Oracle' ],
     frameworks: [ 'Angular', 'Bootstrap', 'Flutter' ],
     languages: [ 'JavaScript', 'Java', 'Python', 'PHP', 'C', 'Dart' ],
-    mobile: [ 'Android', 'Flutter', 'React Native' ],
+    mobile: [ 'Android', 'Flutter' ],
     tools: [ 'Git', 'Linux' ]
   },
   funFact: "I believe debugging is just detective work in disguise 🕵️‍♀️ (with snacks 🍫)"
