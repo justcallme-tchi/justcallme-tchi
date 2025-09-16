@@ -11,10 +11,10 @@ const chaima = {
   bio: {
     location: 'Algeria',
     nick: 'tchi',
-    studies: [ 'Computer Science' ],
+    studies: [ 'Software engineering' ],
     currentFocus: [ 'React Native', 'Cybersecurity', 'Full-Stack Development' ]
   },
-  interests: [ 'Health-tech', 'Ed-tech', 'Frontend Development', 'Mobile Apps', 'Cybersecurity' ],
+  interests: [ 'Health-tech', 'Ed-tech', 'Frontend Development', 'Mobile Apps', 'Cybersecurity' , 'Computer vision' , 'ML/DL' ],
   skills: {
     databases: [ 'MySQL', 'PostgreSQL', 'Oracle' ],
     frameworks: [ 'Angular', 'Bootstrap', 'Flutter' ],
@@ -66,9 +66,6 @@ const chaima = {
 
 ## 📫 Feel free to contact me
 <p align="center">
-	<a href="https://github.com/justcallme-tchi" target="_blank">
-		<img alt="github" src="https://img.icons8.com/clouds/100/000000/github.png" style="padding: 5px;" width="10%">
-	</a>
 	<a href="https://www.linkedin.com/in/justcallme-tchi/" target="_blank">
 		<img alt="linkedin" src="https://img.icons8.com/clouds/100/000000/linkedin.png" style="padding: 5px;" width="10%">
 	</a>
