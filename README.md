@@ -1,6 +1,6 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="5%"> Hi there, I'm Chaïma
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="5%"> Hi there >o<
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=5CF713&background=FFFFFF00&width=435&lines=~%24+Computer+Science+Student;~%24+Full-Stack+%26+Mobile+Developer;~%24+Future+Cybersecurity+Enthusiast;~%24+I+love+coding+things+that+matter..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=7000&pause=1000&color=5CF713&background=FFFFFF00&width=435&lines=~%24I+love+to+code+things+that+matter+.+.+.+" alt="Typing SVG" /></a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=justcallme-tchi/justcallme-tchi)
 
