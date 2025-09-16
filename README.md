@@ -30,9 +30,9 @@ const chaima = {
 
 ## 🚀 What I'm up to
 
-- 🔭 Currently learning **React Native** and **Cybersecurity fundamentals**
+- 🔭 Currently learning **Cybersecurity fundamentals** and **OpenCV**
 - 🤝 Looking to collaborate on **health-tech and ed-tech projects**
-- 💡 Seeking guidance on **cybersecurity challenges**
+- 💡 Seeking guidance on **cybersecurity challenges & CTF**
 - 💬 Ask me about **frontend development**
 
 ---
@@ -49,18 +49,16 @@ const chaima = {
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages and Tools
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</p>
+<div align="center" style="line-height: 1.5;">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=javascript,java,python,php,c,dart,html,css" alt="Languages" />
+  <!-- Frameworks & Tools -->
+  <img src="https://skillicons.dev/icons?i=angular,bootstrap,flutter,android,git,linux,vscode" alt="Frameworks & Tools" /><br>
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Databases" />
+</div>
 
 ---
 
@@ -84,6 +82,11 @@ const chaima = {
 </p>
 
 ---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+</div>
+
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
