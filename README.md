@@ -55,9 +55,9 @@ const chaima = {
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=javascript,java,python,php,c,dart,html,css" alt="Languages" />
   <!-- Frameworks & Tools -->
-  <img src="https://skillicons.dev/icons?i=angular,bootstrap,flutter,android,git,linux,vscode" alt="Frameworks & Tools" /><br>
+  <img src="https://skillicons.dev/icons?i=angular,bootstrap,flutter,androidstudio,git,linux,kali,vscode,bash,github,eclipse,opencv" alt="Frameworks & Tools" /><br>
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase" alt="Databases" />
 </div>
 
 ---
@@ -82,11 +82,6 @@ const chaima = {
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
-</div>
-
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
