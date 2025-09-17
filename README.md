@@ -52,17 +52,24 @@ const chaima = {
 ## 🛠️ Languages and Tools
 
 <div align="center" style="line-height: 1.5;">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=javascript,java,python,php,c,dart,html,css" alt="Languages" />
-  <!-- Frameworks & Tools -->
-  <img src="https://skillicons.dev/icons?i=angular,bootstrap,flutter,androidstudio,git,linux,kali,vscode,bash,github,eclipse,opencv" alt="Frameworks & Tools" /><br>
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,php,dart&theme=light&perline=6" alt="Programming Languages" />
+  <!-- Web Technologies -->
+  <img src="https://skillicons.dev/icons?i=html,css,angular,bootstrap&theme=light&perline=4" alt="Web Technologies" />
+  <!-- Mobile & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio&theme=light&perline=2" alt="Mobile Development" />
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase&theme=light&perline=3" alt="Databases" />
+  <!-- Tools & Environment -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,linux,kali&theme=light&perline=6" alt="Tools & Environment" />
+  <!-- Other Technologies -->
+  <img src="https://skillicons.dev/icons?i=opencv,bash&theme=light&perline=2" alt="Other Technologies" />
 </div>
 
 ---
 
 ## 📫 Feel free to contact me
+
 <p align="center">
 	<a href="https://www.linkedin.com/in/justcallme-tchi/" target="_blank">
 		<img alt="linkedin" src="https://img.icons8.com/clouds/100/000000/linkedin.png" style="padding: 5px;" width="10%">
