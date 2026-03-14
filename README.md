@@ -45,7 +45,7 @@ const chaima = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=justcallme-tchi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justcallme-tchi&layout=compact&theme=radical&hide=Jupyter%20Notebook&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justcallme-tchi&layout=compact&theme=radical&hide=Jupyter%20Notebook,html,css,cmake,hack,swift,batchfile,kotlin&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
 
 ---
